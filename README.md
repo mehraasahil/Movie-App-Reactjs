@@ -1,4 +1,8 @@
 # Movie-app
+[LIVE DEMO FRONT_END](https://movie-app-reactjs.mehraasahil.repl.co/)
+
+
+
 ![Screenshot (2)](https://user-images.githubusercontent.com/118424866/211211369-5c1f0619-950a-4e15-9169-26d5f089baa9.png)
 
 
