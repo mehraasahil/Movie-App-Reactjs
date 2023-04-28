@@ -1,5 +1,5 @@
 # Movie-app
-# Please do redload the page if deployed link not works
+# Please do reload the page if deployed link not works
 
 [LIVE DEMO FRONT-END](https://movie-app-reactjs.mehraasahil.repl.co/)
 
