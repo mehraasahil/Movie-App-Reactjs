@@ -5,7 +5,7 @@ const Watchlist = () => {
   return (
     <div>
    
-    Watchlist</div>
+    Watchlist</div> 
   )
 }
 

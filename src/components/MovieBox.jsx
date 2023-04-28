@@ -12,4 +12,4 @@ const MovieBox = ({list}) => {
   )
 }
 
-export default MovieBox
+export default MovieBox 
