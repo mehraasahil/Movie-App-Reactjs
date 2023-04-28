@@ -19,13 +19,16 @@ const Home = () => {
       <div className="container">
         <div className="grid">
         {
-      list && list.map((movie) => <MovieBox list={movie}/>)
+      list && list.map((movie) => <MovieBox list={movie}/>
+      )
+      
+
       }
         </div>
       </div>
     
    
-    Home
+   
    
       
    
