@@ -1,7 +1,4 @@
 # Movie-app
-<<<<<<< HEAD
-
-=======
 # Please do reload LIVE DEMO LINK the page if deployed link not works
 
 [LIVE DEMO FRONT-END](https://movie-app-reactjs.mehraasahil.repl.co/)
